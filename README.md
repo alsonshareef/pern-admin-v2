@@ -2,7 +2,7 @@
 
 ## About
 
-The solution this web application provides is a simple way for teachers to carry out their administrative tasks in regards to the students that have been registered to them for classes, as well as for students to keep track of the teachers they are enrolled to.
+The solution this web application provides is a simple way for teachers to carry out their administrative tasks in regards to the students that have been registered to them for classes, as well as for students to keep track of the teachers they are registered to.
 
 &#8594; Teachers will be able to carry out tasks such as:
 
@@ -26,8 +26,8 @@ The solution this web application provides is a simple way for teachers to carry
 
 The purpose behind creating this project is to show an understanding of the following:
 
-- Setting up a relational database to fulfill CRUD operations as well as to show knowledge of writing SQL queries.
 - How to create a RESTful API using Node and Express which can run logic based on user interaction to satisfy their administrative needs.
+- Setting up a relational database to fulfill CRUD operations as well as to show knowledge of writing SQL queries.
 - How to utilize Authentication and Authorization to expose different types of users to different functionality.
 - How to utilise a design pattern such as MVC to add structure and modularity to the backend code to leave it easier to maintain.
 - How to create a user-friendly UI using React.
