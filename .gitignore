@@ -1,0 +1,12 @@
+# node modules
+/node_modules
+/client/node_modules
+
+# static files
+/client/public
+
+# production
+/client/build
+
+# global environment variables
+.env
