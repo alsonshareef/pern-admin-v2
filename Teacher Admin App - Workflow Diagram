@@ -1,50 +1,80 @@
-<mxfile host="app.diagrams.net" modified="2021-03-02T12:58:23.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Jn89QtGfqXupN30Bk3s2" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-03T14:50:59.860Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="-TxCisKtLYJjJSUEOsPr" version="14.4.3" type="github">
   <diagram id="OvCTB1lqIZEAYjoXUhW8" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="320" width="210" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;HOMEPAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;HOMEPAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="125" y="330" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-24" target="g1UoDRLJ9Dz6LJaoBcj_-30">
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-24" target="g1UoDRLJ9Dz6LJaoBcj_-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-24" value="- Choose to Login as Teacher/Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-24" value="- Choose to Login as Teacher/Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="350" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-29" target="g1UoDRLJ9Dz6LJaoBcj_-34">
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-29" target="g1UoDRLJ9Dz6LJaoBcj_-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-29" value="- Choose to Create a new account for Teacher/Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-29" value="- Choose to Create a new account for Teacher/Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="210" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="220" width="210" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;LOGIN PAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="370" y="230" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-32" value="- Select to login as Teacher or Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="270" width="210" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-34" target="g1UoDRLJ9Dz6LJaoBcj_-30">
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.557;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-30" target="5Ewrebgxl7iBI1nAvsiU-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="470" width="210" height="160" as="geometry" />
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-30" target="5Ewrebgxl7iBI1nAvsiU-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;SIGN UP PAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="220" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;LOGIN PAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="370" y="230" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-32" value="- Select to login as Teacher or Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="260" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-34" target="g1UoDRLJ9Dz6LJaoBcj_-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="470" width="210" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;SIGN UP PAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="480" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-36" value="- Choose to sign up as a Teacher or Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="510" width="210" height="50" as="geometry" />
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-36" value="- Choose to sign up as a Teacher or Student" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="330" y="510" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-41" value="After creating account, get redirected to login page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="420" y="415" width="180" height="20" as="geometry" />
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-41" value="After creating account, get redirected to login page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="420" y="390" width="180" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="80" width="470" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="420" width="270" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;TEACHER HOMEPAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="845" y="90" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;STUDENT HOMEPAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="745" y="430" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-13" value="- Teacher is able to see a list of all the students that are currently registered to them." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="110" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-14" value="- Teacher is able to click an &quot;Unregister&quot; button next to each student in order to unregister a student and remove them from the list." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="140" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-15" value="- Teacher is able to click &quot;Register Students&quot; to be redirected to a page which is responsible for showing all available students to be registered so the teacher can select which ones are to be registered to which teachers." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="190" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-16" value="- Teacher is able to click &quot;Find Students&quot; to be redirected to a page which is responsible for showing a list of registered students which can be filtered by specified teachers." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="690" y="250" width="470" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
