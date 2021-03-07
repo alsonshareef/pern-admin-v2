@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-07T11:51:45.933Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="5A8aIvekD9lcSZEUG512" version="14.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-07T11:57:57.551Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="HwnqrfP8eCKgEZoSdAxN" version="14.4.3" type="github">
   <diagram id="OvCTB1lqIZEAYjoXUhW8" name="Page-1">
     <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-35" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;SIGN UP PAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="365" y="480" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-36" value="- Choose to create an account as a Teacher or Student" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-36" value="- Create an account as a Teacher or Student" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="500" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-41" value="After creating account, get redirected to login page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -83,8 +83,18 @@
         <mxCell id="5Ewrebgxl7iBI1nAvsiU-14" value="- Teacher is able to click an &quot;Unregister&quot; button next to each student in order to unregister a student and remove them from the list." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="150" width="470" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="-6Ha7xLQJo2gxlFLtoTq-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Ewrebgxl7iBI1nAvsiU-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="225" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5Ewrebgxl7iBI1nAvsiU-15" value="- Teacher is able to click &quot;Register Students&quot; to be redirected to a page which is responsible for showing all available students to be registered so the teacher can select which ones are to be registered to which teachers." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="200" width="470" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-6Ha7xLQJo2gxlFLtoTq-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="5Ewrebgxl7iBI1nAvsiU-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="5Ewrebgxl7iBI1nAvsiU-16" value="- Teacher is able to click &quot;Find Students&quot; to be redirected to a page which is responsible for showing a list of registered students which can be filtered by specified teachers." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="260" width="470" height="20" as="geometry" />
