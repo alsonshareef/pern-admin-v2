@@ -2,13 +2,13 @@
 
 ## About
 
-The solution this web application provides is a simple way for teachers to carry out their administrative tasks in regards to the students that have been registered to them for classes, as well as for students to keep track of the teachers they are registered to.
+This web application provides teachers a way to keep track of students and to carry out administrative tasks in regards to them such as registrations and suspensions, as well as a way to communicate with students through notifications which students can view on their homepage.
 
-&#8594; Teachers will be able to carry out tasks such as:
+&#8594; Teachers will be able to do the following:
 
-- Create an account to then view a list of students who have created accounts on the application as well that are available to be registered to teachers.
-- Register a specified list of students that have existing accounts to themselves or another teacher.
-- Unregister a specified list of students regardless of whether they are registered to themselves or other teachers.
+- Create an account to then be redirected to their teacher homepage that will display all their registered students and access to all administrative features.
+- Register a specified list of students to a specified list of teachers.
+- Unregister a specified list of students from a specified list of teachers.
 - Retrieve a list of registered students that are common between a specified list of teachers.
 - Suspend a specified list of students which will stop them from being able to receive messages from teachers, but they will remain registered to their respective teachers unless a teacher decides they should be unregistered completely.
 - Send messages to students that have to satisfy the following:
@@ -18,18 +18,18 @@ The solution this web application provides is a simple way for teachers to carry
 &#8594; Students will be able to do the following:
 
 - Create an account which they will be able to log into and see which teachers they have been registered to.
-- View whether they have been either suspended or unregistered from one or multiple teachers.
-- View messages that they have received from teachers they are registered to or by teachers who have @mentioned them.
+- View whether they have been either been suspended or unregistered from one or multiple teachers.
+- View messages that they have received from teachers they are registered to or by teachers who have @mentioned them (in the case they are not suspended).
 - Delete their account which will unregister them from all respective teachers.
 
 ## Motivation
 
-The purpose behind creating this project is to show an understanding of the following:
+The reason for creating this project is to show I have an understanding of the following:
 
-- How to create a RESTful API using Node and Express which can run logic based on user interaction to satisfy their administrative needs.
+- How to create a RESTful API using Node and Express which can run logic based on user interaction.
 - Setting up a relational database to fulfill CRUD operations as well as to show knowledge of writing SQL queries.
 - How to utilize Authentication and Authorization to expose different types of users to different functionality.
-- How to utilise a design pattern such as MVC to add structure and modularity to the backend code to leave it easier to maintain.
+- How to utilise a design pattern such as MVC to add structure and modularity to the backend code so it is easier to maintain.
 - How to create a user-friendly UI using React.
 
 ## Screenshots
