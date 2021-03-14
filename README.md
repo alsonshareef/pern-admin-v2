@@ -20,7 +20,6 @@ This web application provides teachers a way to keep track of students and to ca
 - Create an account which they will be able to log into and see which teachers they have been registered to.
 - View whether they have been either been suspended or unregistered from one or multiple teachers.
 - View messages that they have received from teachers they are registered to or by teachers who have @mentioned them (in the case they are not suspended).
-- Delete their account which will unregister them from all respective teachers.
 
 ## Motivation
 
