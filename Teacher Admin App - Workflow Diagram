@@ -1,23 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2021-03-09T12:06:09.496Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.190 Safari/537.36" etag="Qh84BCujtrVAKOo1Gr6-" version="14.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-14T10:22:15.755Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.82 Safari/537.36" etag="HXCyw-4k6Xlk0TmuFUBQ" version="14.4.6" type="github">
   <diagram id="OvCTB1lqIZEAYjoXUhW8" name="Page-1">
-    <mxGraphModel dx="2249" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2249" dy="1931" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="giRqO43mf1kSPfpaRNRd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-24" target="g1UoDRLJ9Dz6LJaoBcj_-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="375" />
+              <mxPoint x="220" y="255" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="330" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-23" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;HOMEPAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="15" y="340" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-24" target="g1UoDRLJ9Dz6LJaoBcj_-30" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-24" value="- Choose to Login" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="350" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-29" target="g1UoDRLJ9Dz6LJaoBcj_-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="410" />
+              <mxPoint x="220" y="515" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-29" value="- Choose to Create a new account for Teacher/Student" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="385" width="210" height="50" as="geometry" />
@@ -25,11 +35,12 @@
         <mxCell id="-6Ha7xLQJo2gxlFLtoTq-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.352;entryY=-0.022;entryDx=0;entryDy=0;exitX=0.352;exitY=1.008;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-30" target="g1UoDRLJ9Dz6LJaoBcj_-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1LMacNFuaxf9GMncwuIP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-30" target="5Ewrebgxl7iBI1nAvsiU-1">
+        <mxCell id="giRqO43mf1kSPfpaRNRd-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-30" target="5Ewrebgxl7iBI1nAvsiU-1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="700" y="255" />
-              <mxPoint x="700" y="165" />
+              <mxPoint x="700" y="140" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -39,7 +50,7 @@
         <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-31" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;LOGIN PAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="200" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-32" value="&lt;span&gt;- Select to login as Teacher or Student&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="g1UoDRLJ9Dz6LJaoBcj_-32" value="&lt;span&gt;- Select to login as Teacher/Student.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="210" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6Ha7xLQJo2gxlFLtoTq-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-34" target="g1UoDRLJ9Dz6LJaoBcj_-30" edge="1">
@@ -58,10 +69,10 @@
           <mxGeometry x="490" y="385" width="150" height="20" as="geometry" />
         </mxCell>
         <mxCell id="5Ewrebgxl7iBI1nAvsiU-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="30" width="490" height="290" as="geometry" />
+          <mxGeometry x="820" y="30" width="480" height="220" as="geometry" />
         </mxCell>
         <mxCell id="5Ewrebgxl7iBI1nAvsiU-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="820" y="340" width="490" height="200" as="geometry" />
+          <mxGeometry x="820" y="340" width="490" height="180" as="geometry" />
         </mxCell>
         <mxCell id="5Ewrebgxl7iBI1nAvsiU-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;TEACHER HOMEPAGE&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="985" y="40" width="160" height="20" as="geometry" />
@@ -72,30 +83,24 @@
         <mxCell id="5Ewrebgxl7iBI1nAvsiU-13" value="- Teacher is able to see a list of all the students that are currently registered to them." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="825" y="60" width="470" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="5Ewrebgxl7iBI1nAvsiU-14" value="- Teacher is able to click an &quot;Unregister&quot; button next to each student in order to unregister a student and remove them from the list." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="825" y="90" width="470" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5Ewrebgxl7iBI1nAvsiU-15" value="- Teacher is able to click &quot;Register Students&quot; to be redirected to a page which will show a list of all students that have signed up which the teacher will be able to register to themselves." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="827" y="170" width="470" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="5Ewrebgxl7iBI1nAvsiU-16" value="- Teacher is able to click &quot;Find Students&quot; to be redirected to a page which is responsible for showing a list of registered students which can be filtered by specified teachers." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="827" y="230" width="470" height="20" as="geometry" />
+        <mxCell id="5Ewrebgxl7iBI1nAvsiU-15" value="- Teacher is able to click &quot;Manage Students&quot; to be redirected to a page which will be responsible for allowing teachers to search for students, register or unregister students and suspend students." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="826.5" y="100" width="470" height="50" as="geometry" />
         </mxCell>
         <mxCell id="-6Ha7xLQJo2gxlFLtoTq-1" value="- Student is able to see a list of all the teachers they are currently registered to." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="380" width="470" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1LMacNFuaxf9GMncwuIP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-30" target="5Ewrebgxl7iBI1nAvsiU-2">
+        <mxCell id="1LMacNFuaxf9GMncwuIP-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="g1UoDRLJ9Dz6LJaoBcj_-30" target="5Ewrebgxl7iBI1nAvsiU-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="700" y="255" />
-              <mxPoint x="700" y="440" />
+              <mxPoint x="700" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="-6Ha7xLQJo2gxlFLtoTq-8" value="&lt;span style=&quot;&quot;&gt;- Choose to login as a guest Teacher/Student&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-6Ha7xLQJo2gxlFLtoTq-8" value="&lt;span&gt;- Choose to login as a guest Teacher/Student.&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="250" width="210" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-6Ha7xLQJo2gxlFLtoTq-9" value="- Choose to go to Sign Up page incase user has forgotten to create account" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-6Ha7xLQJo2gxlFLtoTq-9" value="- Choose to go to Sign Up page incase user has forgotten to create account." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="280" width="230" height="20" as="geometry" />
         </mxCell>
         <mxCell id="-6Ha7xLQJo2gxlFLtoTq-12" value="If user forgets to create account before logging in, they can access sign up page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -110,14 +115,50 @@
         <mxCell id="-6Ha7xLQJo2gxlFLtoTq-18" value="- Student is able to see messages they have received from teachers they may or may not be registered to and/or have been @mentioned." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="830" y="450" width="460" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="-6Ha7xLQJo2gxlFLtoTq-19" value="- Student is able to delete their account in the navbar which will unregister them from all their teachers." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="830" y="490" width="470" height="20" as="geometry" />
+        <mxCell id="1LMacNFuaxf9GMncwuIP-7" value="- Teacher is able to click &quot;Notify Students&quot; which will direct them to a page which is responsible for showing a list of students who are able to receive notifications for the teacher to communicate with." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="817" y="170" width="473" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1LMacNFuaxf9GMncwuIP-5" value="- Teacher is able to &quot;Suspend&quot; which will make them unable to receive messages from teachers they are registered to or not through @mentions" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="820" y="140" width="470" height="20" as="geometry" />
+        <mxCell id="giRqO43mf1kSPfpaRNRd-4" value="- Teacher is able to click &quot;Logout&quot; to logout and be redirected to Login Page." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="810" y="210" width="443" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="1LMacNFuaxf9GMncwuIP-7" value="- Teacher is able to click &quot;Notify Students&quot; which will direct them to a page which shows a list of students who are not suspended and either registered to them or can be @mentioned" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="822" y="280" width="473" height="20" as="geometry" />
+        <mxCell id="giRqO43mf1kSPfpaRNRd-6" value="- Student is able to click &quot;Logout&quot; to logout and be redirected to Login Page." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="827" y="480" width="443" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#FC491C;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="280" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-8" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px&quot;&gt;1&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="290" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-9" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#FC491C;" vertex="1" parent="1">
+          <mxGeometry x="310" y="570" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-10" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px&quot;&gt;2&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="580" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#FC491C;" vertex="1" parent="1">
+          <mxGeometry x="820" y="290" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-14" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px&quot;&gt;4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="300" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-15" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#FC491C;" vertex="1" parent="1">
+          <mxGeometry x="310" y="135" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-16" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px&quot;&gt;3&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="145" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeColor=#6c8ebf;fillColor=#FC491C;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 22px&quot;&gt;4&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="-10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-19" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FC491C;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="110" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="giRqO43mf1kSPfpaRNRd-20" value="&lt;b&gt;&lt;font color=&quot;#ffffff&quot;&gt;NUMBERS INDICATE THE ORDER OF WORKFLOW&lt;/font&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="140" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
